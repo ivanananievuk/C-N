@@ -1,0 +1,25 @@
+body{
+    background-color: #666;
+}
+
+
+
+.table{
+    display: flex;
+    background-color: red;
+    max-width: 603px;
+    margin: auto;
+   
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: #fff;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 500%;
+   
+    
+}
+
